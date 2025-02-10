@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+    <EditText
+        android:id="@+id/editNom"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="@string/nom">
+    </EditText>
+    <EditText
+        android:id="@+id/editPrenom"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="@string/prenom">
+    </EditText>
+    <EditText
+        android:id="@+id/editAge"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="@string/age">
+    </EditText>
+    <Button
+        android:id="@+id/btnValidation"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="@string/btn_validation">
+    </Button>
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

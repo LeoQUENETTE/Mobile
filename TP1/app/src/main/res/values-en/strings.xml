@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="hello_world">Hello World !</string>
+    <string name="prenom">First Name</string>
+    <string name="nom">Last Name</string>
+    <string name="age">Age</string>
+    <string name="btn_validation">Confirmation</string>
+    <string name="alerte">Confirmation</string>
+    <string name="numero">Phone number</string>
+    <string name="phone">Call</string>
+    <string name="dialog_confirmation">Are you sure about your inforamtion ?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
